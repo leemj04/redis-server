@@ -346,7 +346,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-![](test-image.png)
+![](./picture/test-image.png)
 
 하나의 server와 여러 client간의 통신이 잘 이루어짐을 확인할 수 있다.
 
@@ -611,4 +611,4 @@ while(1) {
 }
 ```
 
-![](final-image.png)
+![](./picture/final-image.png)
